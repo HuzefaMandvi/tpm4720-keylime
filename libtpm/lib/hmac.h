@@ -3,7 +3,7 @@
 /*			     	TPM HMAC					*/
 /*			     Written by S. Berger				*/
 /*		       IBM Thomas J. Watson Research Center			*/
-/*	      $Id: hmac.h 4702 2013-01-03 21:26:29Z kgoldman $			*/
+/*	      $Id: hmac.h 4726 2014-09-03 22:02:10Z kgoldman $			*/
 /*										*/
 /* (c) Copyright IBM Corporation 2006, 2010.					*/
 /*										*/

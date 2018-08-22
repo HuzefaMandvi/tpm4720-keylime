@@ -3,7 +3,7 @@
 /*			     	TPM HMAC routines				*/
 /*			     Written by J. Kravitz				*/
 /*		       IBM Thomas J. Watson Research Center			*/
-/*	      $Id: hmac.c 4702 2013-01-03 21:26:29Z kgoldman $			*/
+/*	      $Id: hmac.c 4726 2014-09-03 22:02:10Z kgoldman $			*/
 /*										*/
 /* (c) Copyright IBM Corporation 2006, 2010.					*/
 /*										*/
